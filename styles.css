@@ -1,0 +1,206 @@
+/* General Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Background Video */
+#bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    opacity: 0.6;
+}
+
+/* Dark Overlay for Readability */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 0;
+}
+
+/* Header Section */
+header {
+    color: white;
+    text-align: center;
+    padding: 180px 20px; /* Increased padding to make video more visible */
+    z-index: 1;
+    position: relative;
+    margin-bottom: 60px; /* Further increased margin-bottom */
+}
+
+header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+header h3 {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+.explore-btn {
+    background-color: #ffcc00;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.explore-btn a {
+    text-decoration: none;
+    color: #000;
+}
+
+.explore-btn:hover {
+    background-color: #e0b800;
+}
+
+/* About Section */
+.about {
+    background-color: #1c1c1c;
+    padding: 80px 20px; /* Increased padding to allow more video visibility */
+    color: white;
+    text-align: left;
+    margin-bottom: 80px; /* Further increased margin-bottom for video visibility */
+    margin-top: 10px;
+    opacity: 50%;
+}
+
+.about h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.about .intro {
+    text-align: center;
+}
+
+.about .flashcards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px; /* Increased gap between flashcards */
+}
+
+.about .flashcards .flashcard {
+    background-color: #2e2e2e;
+    padding: 25px;
+    border-radius: 10px;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    line-height: 1.6;
+}
+
+.about .flashcard h2 {
+    font-size: 1.8rem;
+    color: #ffcc00;
+    margin-bottom: 20px;
+}
+
+.about .flashcard p,
+.about .flashcard ul,
+.about .flashcard li {
+    font-size: 1.1rem;
+    font-weight: 900; /* Increased font weight to make text bold */
+    color: #ffffff;
+    line-height: 1.8;
+}
+
+.about .flashcard ul {
+    list-style: none;
+    padding: 0;
+    line-height: 1.8;
+}
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 0.9rem;
+    position: relative;
+    width: 100%;
+    margin-top: auto; /* Ensures footer stays at the bottom of the content */
+    bottom: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header {
+        padding: 120px 20px; /* Adjusted padding for smaller screens */
+        margin-bottom: 40px;
+    }
+
+    header h1 {
+        font-size: 2.5rem;
+    }
+
+    header h3 {
+        font-size: 1.2rem;
+    }
+
+    .explore-btn {
+        font-size: 1rem;
+        padding: 10px 20px;
+    }
+
+    .about h1 {
+        font-size: 2rem;
+    }
+
+    .about .flashcards {
+        flex-direction: column;
+    }
+
+    .about .flashcards .flashcard {
+        max-width: 100%;
+        padding: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    header h3 {
+        font-size: 1rem;
+    }
+
+    .explore-btn {
+        font-size: 0.9rem;
+        padding: 8px 16px;
+    }
+
+    .about h1 {
+        font-size: 1.8rem;
+    }
+
+    .about .flashcards .flashcard {
+        padding: 15px;
+    }
+}
