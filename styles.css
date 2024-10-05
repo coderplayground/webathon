@@ -102,7 +102,7 @@ header h3 {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 150px; /* Increased gap between flashcards */
+    gap: 100px; /* Increased gap between flashcards */
 }
 
 .about .flashcards .flashcard {
