@@ -1,6 +1,6 @@
 # JOIN THE WEBATHON HACKATHON!
 
-The Coding Club of IET, Dr. Bhimrao Ambedkar University, Agra, under **IIC**, invites all students to participate in the exciting **“WEBATHON: ULTIMATE UI / UX CHALLENGE”**.
+The Coding Club of IET, under **IIC**, invites all students to participate in the exciting **“WEBATHON: ULTIMATE UI / UX CHALLENGE”**.
 
 This is your chance to showcase your web development skills and build dynamic web projects using **HTML** and **CSS**.
 
