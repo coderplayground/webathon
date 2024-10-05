@@ -22,7 +22,7 @@ This hackathon provides an excellent opportunity to engage with **real-world pro
 
 ## 🌐 Explore & Register
 
-To register and explore more details about the Webathon, click the link below: [Register Here](https://coderplayground.github.io/webathon/)
+To register and explore more details about the Webathon, click the link: [Register Here](https://coderplayground.github.io/webathon/)
 
 ---
 
