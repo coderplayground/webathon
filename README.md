@@ -8,15 +8,18 @@ Whether you’re a beginner or an experienced coder, this Webathon is the perfec
 
 ## 🚀 Event Highlights
 
-- 📅 **Registration Date**: 05-08 October 2024
-- 📅 **Hackathon Day**: 09 October 2024 (Wednesday)
-- 🎯 **Presentation & Judging**: 09 October 2024  
+- 📅 **Last Registration Date**: 20 November 2024
+- 📅 **Hackathon Day**: 23 November 2024 (Wednesday)
   (Time and Venue will be announced on the same day)
 
-## 👨‍💻 How to Participate
+## 👨‍💻 Requirements
 
 - Bring your own **laptop**.
-- Ensure a **stable internet connection**.
+- Each team can have max 2 member (individual participation is allowed).
+- Only one laptop per team is allowed.
+- Topic will be given on the spot.
+- Teams will have to code from scratch in given time limit.
+- If any team found cheating will be disqualified.
 
 This hackathon provides an excellent opportunity to engage with **real-world projects**, enhance your coding skills, and collaborate in a dynamic, competitive environment.
 
