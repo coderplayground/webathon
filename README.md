@@ -15,7 +15,7 @@ This Webathon is the perfect platform to challenge yourself, collaborate with pe
 ## 👨‍💻 Requirements
 
 - Bring your own **laptop**.
-- Each team can have max 2 member (individual participation is allowed).
+- Each team can have max 3 members (individual participation is allowed).
 - Only one laptop per team is allowed.
 - Topic will be given on the spot.
 - Teams will have to code from scratch in given time limit.
