@@ -204,3 +204,15 @@ header h3 {
         padding: 15px;
     }
 }
+
+footer {
+            background-color: #1c1c1c;
+            padding: 20px;
+            text-align: center;
+            color: #ffffff;
+            margin-top: 20px;
+        }
+
+        footer span {
+            color: red;
+        }
