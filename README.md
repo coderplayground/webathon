@@ -1,10 +1,10 @@
 # JOIN THE WEBATHON HACKATHON!
 
-The Coding Club of IET, under **IIC**, invites all students to participate in the exciting **“WEBATHON: ULTIMATE UI / UX CHALLENGE”**.
+The Coding Club of IET, under **IIC**, invites all students to participate in the exciting **“WEBATHON: HTML & CSS EDITION”**.
 
-This is your chance to showcase your web development skills and build dynamic web projects using **HTML** and **CSS**.
+This is your chance to showcase your creativity and coding skills and build static web projects using **HTML** and **CSS**.
 
-Whether you’re a beginner or an experienced coder, this Webathon is the perfect platform to challenge yourself, collaborate with peers, and create innovative web designs.
+This Webathon is the perfect platform to challenge yourself, collaborate with peers, and create innovative web designs.
 
 ## 🚀 Event Highlights
 
@@ -20,8 +20,9 @@ Whether you’re a beginner or an experienced coder, this Webathon is the perfec
 - Topic will be given on the spot.
 - Teams will have to code from scratch in given time limit.
 - If any team found cheating will be disqualified.
+- Only first year students are eligible for this hackathon (any branch).
 
-This hackathon provides an excellent opportunity to engage with **real-world projects**, enhance your coding skills, and collaborate in a dynamic, competitive environment.
+This hackathon provides an excellent opportunity to engage in **real-world projects**, enhance your coding skills, and collaborate in a dynamic, competitive environment.
 
 ## 🌐 Explore & Register
 
